@@ -5,6 +5,7 @@ Students will need to scan the QR code and login to receive the attendance.
 The attendance will only be taken if the student is in range of the classroom and if the student is on time.
 In case of any problem the lecturers can manually take the students' attendance.
 
+The web application can be access at: https://zas.azurewebsites.net
 
 Testing account:
 lecturer:
